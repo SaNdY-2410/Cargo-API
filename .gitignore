@@ -44,3 +44,7 @@ yarn.lock
 
 # Optional: Exclude .eslintcache file if using ESLint
 .eslintcache
+
+# SQL folder
+sql/
+
